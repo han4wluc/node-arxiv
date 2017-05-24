@@ -1,0 +1,27 @@
+  <entry>
+    <id>http://arxiv.org/abs/quant-ph/9802028v1</id>
+    <updated>1998-02-11T16:25:41Z</updated>
+    <published>1998-02-11T16:25:41Z</published>
+    <title>Analogue Quantum Computers for Data Analysis</title>
+    <summary>  Analogue computers use continuous properties of physical system for modeling.
+In the paper is described possibility of modeling by analogue quantum computers
+for some model of data analysis. It is analogue associative memory and a formal
+neural network. A particularity of the models is combination of continuous
+internal processes with discrete set of output states. The modeling of the
+system by classical analogue computers was offered long times ago, but now it
+is not very effectively in comparison with modern digital computers. The
+application of quantum analogue modelling looks quite possible for modern level
+of technology and it may be more effective than digital one, because number of
+element may be about Avogadro number (N=6.0E23).
+</summary>
+    <author>
+      <name>Alexander Yu. Vlasov</name>
+      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">FCR/IRH, St.-Petersburg, Russia</arxiv:affiliation>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">7 pages, standard article LaTeX2e document class</arxiv:comment>
+    <link href="http://arxiv.org/abs/quant-ph/9802028v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/quant-ph/9802028v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
